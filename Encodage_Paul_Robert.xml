@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="ead.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9">
+	<eadheader>
+		<eadid/>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Les archives de la Fondation nationale de la Cité internationale
+					universitaire de Paris (CIUP)</titleproper>
+				<subtitle>Répertoire numérique des archives de la Fondation Nationanale de la Cité
+					internationale universitaire de Paris (CNIUP)</subtitle>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives Nationales, section des Missions, Centre des archives
+					contemporaines</publisher>
+				<address>
+					<addressline>2 Rue des Archives, 77300 Fontainebleau</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Cet instrument de recherche a été encodé en XML conformément à la DTD EAD
+				(version 2002) à l'aide du logiciel Oxygen.</creation>
+			<langusage>Instrument de recherche rédigé en <language langcode="fre"
+					>français</language></langusage>
+			<descrules>Ce répertoire numérique est rédigé conformément à la norme ISAD (G).
+				L'indexation des noms de personnes est conforme à la norme AFNOR NF Z 44-061 de juin
+				1986.</descrules>
+		</profiledesc>
+	</eadheader>
+	<frontmatter/>
+	<archdesc level="fonds">
+		<did>
+			<origination><corpname>Ministère de l'Education Nationale</corpname><corpname>Sous la
+					direction de la Cité Internationale Universitaire de
+					Paris</corpname><corpname>La fondation nationale de la Cité internationale
+					universitaire de Paris</corpname><corpname>L’Association des anciens résidents
+					de la CIUP, dite Alliance internationale</corpname></origination>
+			<unittitle>Inventaire des fonds versés par la Fondation nationale de la Cité
+				internationale universitaire de Paris (CIUP). Ces fonds proviennent de la délégation
+				générale et du secrétariat général</unittitle>
+			<unitid>20090013</unitid>
+			<unitdate>2009</unitdate>
+			<physdesc><extent>1200 articles dans 872 cartons de type Dimab et 1 carton
+					48x34x13cm</extent><dimensions>872 boîtes de type Dimab et 1 boîte de
+					48x34x13cm</dimensions></physdesc>
+		</did>
+		<accessrestrict>
+			<p>Les conditions d’accès à ce fonds d’archives sont régies par le livre II du Code du
+				patrimoine. Les articles sont librement communicables, sauf les articles suivants,
+				qui ne le seront qu’à l’expiration d’un délai de 50 ans : 47, 50, 53, 148-165,
+				195-200, 205, 206,224, 225, 232, 267, 305-310, 315, 317, 446, 449, 450, 476, 478,
+				490-493, 496-499, 510-515, 517-539, 540-1036, 1050, 1089, 1096, 1106, 1116, 1161,
+				1172, 1188, 1192.</p>
+		</accessrestrict>
+		<acqinfo>
+			<p>Entré par don en <date>2009</date>.</p>
+		</acqinfo>
+		<arrangement>
+			<p>Administration générale art. 1-233 Création de la Cité art. 1-9 Organes directeurs
+				art. 10-106 Délégation générale art. 10-51 Secrétariat général (adjoint à la
+				déléguée) art. 52-73 Conseils d’administration, bureau art. 74-94 Conférences des
+				directeurs art. 95-101 Comités d’établissement art. 102-105 Comités d’étude et
+				d’information art. 106 Organes consultatifs art.107-111 Relations extérieures art.
+				112-128 Communication art. 129-147 Interne art. 129-139 Externe art. 140-147 Gestion
+				des ressources humaines art. 148-165 Recrutement et gestion des personnels art.
+				148-161 Médecine du travail art. 162-163 Commissions art. 164-165 Finances art.
+				166-233 Dommages de guerre et réquisitions art. 166-171 Commissions art. 172-173
+				Gestion budgétaire art. 174-185 Ressources art. 186-224 Affaires financières
+				diverses art. 225-227 Banques art. 228-231 Service financier art. 232-233</p>
+
+			<p>Gestion du domaine et du patrimoine art. 234-418 Constitution du domaine art. 234-247
+				Aménagement et voirie art. 248-252 Architectes art. 253-257 Travaux et rénovations
+				art. 258-260 Restaurants art. 261-264 Service technique art. 265-274 Sécurité et
+				surveillance art. 275-281 Maison internationale art. 282 Outillage national art. 283
+				Pavillon administratif art. 284 Service médical art. 285-288 Hôpital art. 289-317
+				Gestion des biens immobiliers art. 318-418 Maisons rattachées art. 318-366 Maisons
+				non-rattachées art. 367-402 Autres bâtiments art. 403-418 </p>
+			<p>Animation du domaine art. 419-486 Maison internationale art. 419-430 Culture art.
+				431-448 Sports art. 449-458 Associations art. 459-469 Francophonie art. 470 Agence
+				postale de la Cité art. 471 Restaurants art. 472-481 Tournages de films art.
+				482-486</p>
+
+			<p>Résidents art. 487-1036 Admissions art. 487-495 Vie des résidents art. 496-511
+				Affaires politiques art. 512-515 Annuaires art. 516-539 Dossiers des résidents art.
+				540-1036 Relations entre la cité et les maisons art. 1037-1200 Maisons rattachées
+				art. 1037-1105 Maisons non-rattachées art. 1106-1198 Projets de création de maison
+				art. 1199-1200</p>
+		</arrangement>
+		<relatedmaterial>
+			<p>Archives nationales, site de Paris. AJ16/art. 7027-7044 Création de la cité,
+				aménagement, Fondation nationale de la CIUP (fonds versé dans les années 1960 par
+				les services du rectorat de Paris). 50 AP Fonds André Honnorat. 307 AP Fonds Raoul
+				Dautry. 406 AP Fonds Bernard Chenot. 462 AP Fonds André François-Poncet.</p>
+
+			<p>Archives nationales, site de Fontainebleau. 20010243/10-20 Gestion et organisation de
+				la CIUP (versement du rectorat de Paris, chancellerie des universités). 1921-1994.
+				20090007/1-105 Théâtre : fonctionnement, activités, partenariat. 1936-1991.
+				20090014/1-343 Fondation nationale et maisons : création, construction et
+				aménagement, rénovation, administration générale, finances, relations, résidents,
+				animation. 1906-2002. 20090023/1-59 Alliance internationale : création,
+				administration générale, relations, animation. 1925-2007. 20090024/1-38 Alliance
+				internationale : plaques de métal, plaques de verre. 1936-1967. 20090025/1-12
+				Alliance internationale : enregistrements audiovisuels. s.d. 20090026/1-4 Alliance
+				internationale : documents iconographiques. 1950-2002. 20090027/1 Fondation
+				nationale : plaques de verre. s.d. 20090028/1-10 Alliance internationale : affiches.
+				s.d.</p>
+
+			<p>Archives départementales des Alpes de Haute-Provence. 4J/1-72 Fonds André
+				Honnorat.</p>
+		</relatedmaterial>
+		<bioghist>
+			<p><corpname>Cité Internationale Universitaire de Paris</corpname> : Construite à la
+				lisière de Paris, l’originalité de la Cité tient plus de sa conception que de
+				l’importance quantitative de ces équipements. Elle s’est adaptée aux conditions
+				changeantes de la vie estudiantine et universitaire et se découvre, dans le respect
+				de sa mission fondamentale, des vocations nouvelles. Créée en 1925, elle doit son
+				développement au concours de personnalités, d’institutions françaises et étrangères
+				et de pays qui lui ont façonné une physionomie originale. Ce caractère particulier,
+				à la fois universitaire, culturel et international, a été voulu dès l’origine par le
+				créateur de la Cité, André Honnorat, et par tous ceux qui contribuèrent avec lui à
+				son développement. Il sollicite, en France comme à l’étranger, les banquiers, les
+				industriels, les collectivités locales, les gouvernements, afin de recueillir des
+				fonds ; il multiplie voyages et conférences pour exposer l’idéal de la Cité, œuvre
+				de paix pour les jeunes et par les jeunes. Afin de coordonner la somme des
+				initiatives, on crée une Fondation nationale, personne morale de droit privé
+				reconnue d’utilité publique, à laquelle l’Université de Paris donne mandat de
+				construire et d’administrer la Cité. Le succès est immédiat. Suite à l’ouverture de
+				la première maison, la fondation Emile et Louise Deutsch de la Meurthe, d’autres
+				suivent. Un homme d’affaires belge, un comité de personnalités canadiennes, un
+				mécène argentin, une riche propriétaire cubaine, des grandes écoles, des
+				gouvernements étrangers décident de construire pour les étudiants de leur pays ou de
+				leur établissement une maison à la Cité. De 1925 à 1939, on relève 19 créations de
+				maisons auxquelles il faut ajouter l’aménagement du parc et en 1936, l’achèvement de
+				la Maison internationale, financée par John D. Rockefeller Jr. Après l’épreuve de la
+				guerre, le mouvement reprend et, de 1945 à 1969, 17 autres maisons sont ouvertes
+				ainsi que l’Hôpital internationale universitaire de Paris (HIUP). La capacité
+				d’accueil est désormais de 5000 à 5500 lits, répartis dans les maisons soumises à
+				des règlements généraux communs mais ayant une autonomie plus ou moins grande par
+				rapport à la Fondation nationale, selon qu’elles lui sont directement rattachées ou
+				qu’elles ont conservé leur propre conseil d’administration. Depuis cette date, s’il
+				n’y a pas eu de construction nouvelle, de nombreux travaux de rénovation ont été
+				effectués afin de moderniser les équipements. Les mécènes sont sans doute moins
+				nombreux qu’autrefois mais les gouvernements étrangers et les pouvoirs publics
+				français apportent toujours leur aide à une institution dont il n’y a pas d’exemple
+				réellement comparable dans le monde. Composée de maisons françaises et de maisons
+				d’origine étrangère, ainsi que d’équipements et de services, la Cité offre aux
+				résidents les meilleures conditions de logement, de travail et de rencontre. Les
+				résultats obtenus par la Cité universitaire de Paris sont à la hauteur des
+				espérances que l’on avait placées en elle. Depuis 1925, des cohortes d’étudiantes et
+				d’étudiants ont fréquenté la Cité et y ont fait une expérience remarquable
+				d’échanges interculturels dans le cadre d’une organisation de type fédéral. Beaucoup
+				parmi ces anciens résidents sont devenus des personnages célèbres, tels que le
+				président Habib Bourguiba, le président Léopold Sédar Senghor, les Premiers
+				ministres Pierre Elliot Trudeau et Raymond Barre. Beaucoup d’autres ont trouvé à la
+				Cité le support matériel et intellectuel, complétant heureusement leur enseignement
+				universitaire, qui leur a permis de mieux réussir leur vie personnelle. Bien peu ont
+				oublié ces années passées Boulevard Jourdan comme le montrent les nombreux
+				témoignages d’une touchante fidélité reçus par la Fondation nationale ou par
+				l’Alliance internationale des anciens. La CIUP a donc été et reste une institution
+				universitaire, sociale et culturelle essentielle, un facteur incontesté de diffusion
+				du français et de la culture française, un foyer efficace de meilleure connaissance
+				réciproque des cultures du monde. Mais la fidélité à une vocation ne doit pas
+				masquer les évolutions. La Cité universitaire du XXIème siècle ne peut être la même
+				que celle des années 1920. Le monde a changé, les réalités universitaires aussi.
+				L’accroissement du nombre des étudiants, l’allongement de la durée des études, la
+				multiplication des universités tant en province qu’à l’étranger, l’ampleur prise par
+				la politique de coopération, l’essor des échanges universitaires internationaux, ont
+				transformé les flux d’étudiants venant à Paris. Incapable de faire face à toutes les
+				demandes, la Cité tend à recruter les étudiants et chercheurs les plus avancés sur
+				le plan universitaire. Leurs préoccupations, leurs besoins, leurs exigences, les
+				conditions de leur séjour parisien ne sont pas les mêmes que ceux des générations
+				précédentes. S’ils ne dédaignent pas l’atmosphère d’amitié qui s’établit dans la vie
+				quotidienne de leur résidence, ils souhaitent trouver à travers la Cité, d’une part
+				des contacts plus larges, d’autre part des occasions de satisfaire concrètement leur
+				aspiration à l’organisation de la vie collective. C’est dans cet esprit que le
+				conseil d’administration, répondant au vœu des résidents, a créé la « Délégation des
+				Comités de résidents », comprenant 12 membres élus par les Comités des maisons.
+				Cette délégation sera appelée à formuler des avis et des propositions sur des
+				questions d’intérêt commun, en ce qui concerne la vie et les activités collectives
+				dans l’ensemble de la Cité. La Cité universitaire a su également s’ouvrir sur
+				l’extérieur sans porter pour autant atteinte à la communauté créée par les résidents
+				au sein des maisons ou dans le cadre de leurs associations, l’Association
+				internationale des résidents de la Cité universitaire de Paris (AIRCUP) et
+				l’Association sportive de la Cité universitaire de Paris (ASCUP). Cette ouverture se
+				fait selon deux voies différentes. Il y a en premier l’ouverture aux non-résidents,
+				étudiants ou non, par le biais d’activités sportives, de la Bibliothèque centrale,
+				par l’importance donnée aux activités culturelles tant dans les maisons que dans les
+				salles de spectacle de la Maison internationale. En second lieu, il y a l’ouverture
+				sur le monde scientifique. La Cité souhaite être également un lieu de colloques et
+				de congrès auxquels seront associés, en fonction de leur spécialité et de leur
+				niveau, des résidents. Le nombre de ces manifestations grandit, soit sous forme de
+				symposia à vocation spécifique, soit sous celle, plus spectaculaire, de grands
+				congrès internationaux. La Cité universitaire est avant tout un lieu d’échange. Il
+				s’effectue par la variété des équipements mis au service des résidents. Situé entre
+				la porte d’Orléans et la Porte de Gentilly, la Cité offre en premier lieu un parc de
+				40 hectares avec, disséminées tout autour, les 40 maisons de styles architecturaux
+				divers. Elle offre néanmoins un point central, celui de la Maison internationale où
+				se trouvent les services communs : la bibliothèque, une maison de la presse, le
+				restaurant, la cafétéria, 3 salles de spectacle (où se déploie une activité intense
+				de création théâtrale, cinématographique, musicale qui fait de cet ensemble une
+				véritable « maison de la culture internationale »), des équipements sportifs
+				(tennis, piscine, gymnase), une banque, un bureau de poste. La Cité concentre
+				également un hôpital, des salons d’apparat, des ateliers artistiques. Elle est ainsi
+				une vraie petite ville, au cœur de l’agglomération parisienne, un hâvre de verdure
+				au milieu d’un dense tissu urbain. Les habitants de ce vaste ensemble, aux origines
+				nationales et scientifiques multiples, sont des étudiants de haut niveau ou des
+				chercheurs et professeurs venus en stage dans les établissements d’enseignement
+				supérieur de la région parisienne. Parmi eux, les français ne sont qu’à peine 30 %
+				et la Cité accueille plus d’une centaine de nationalités différentes, justifiant
+				pleinement le titre de Cité internationale et universitaire. Mais, l’originalité de
+				la Cité est plus profonde et plus subtile. Elle réside dans la volonté de créer une
+				véritable communauté où les maîtres mots sont ceux de tolérance, compréhension,
+				échange et respect de la spécificité de chacun. La dénomination des fondations :
+				Maisons des provinces de France, Maison d’Italie, Maison de Norvège, Fondation
+				agronomique…, ne doit pas faire illusion. A l’intérieur de chacune d’elles, les
+				directeurs veillent à rassembler les personnalités les plus diverses. Chaque année,
+				au moment de la rentrée universitaire, lorsque les commissions d’admission ont
+				désigné ceux et celles qui vont bénéficier d’une chambre à la Cité, s’effectue un
+				intense mouvement d’échanges de maison à maison afin d’établir le brassage des
+				résidents et assurer la multiplicité des contacts entre les étudiants. C’est là une
+				idée fondamentale, née avec l’institution elle-même, et sur ce point la Cité des
+				années 2000 est fidèle à l’esprit de ses concepteurs. En même temps qu’elle
+				recherche et met en pratique cette ouverture, la Cité a pour vocation de préserver
+				et d’entretenir une vie collective qui favorise les échanges entre cultures, alors
+				que s’y côtoient chaque jour les futurs cadres de plus de 100 pays du monde. En ce
+				sens, la présence parmi les résidents, de chercheurs et de professeurs sera de plus
+				en plus mise à profit pour donner aux étudiants des occasions multipliées de
+				rencontres avec des universitaires de haut niveau. A leur côté, le déroulement de
+				multiples activités culturelles (soit dans les diverses résidences, soit à la Maison
+				internationale) et la pratique des sports, doivent constituer autant de
+				manifestations d’une vie communautaire au sein de la Cité, avec le concours actif
+				des résidents, de leurs associations, des responsables permanents de la Fondation
+				nationale et des maisons ainsi que de tous ceux qui souhaitent de l’extérieur
+				apporter leur soutien à une action généreuse tournée vers l’avenir. Institution
+				spécifique par ses origines et ses modes de gestion, essentielle à la vie académique
+				parisienne par son ampleur, la Cité poursuit sa mission fondamentale d’accueil et de
+				rapprochement des élites de tous les pays et elle l’enrichit d’un souci nouveau de
+				participation à l’épanouissement culturel, universitaire et social de ses
+				membres.</p>
+			<p><corpname>Fondation nationale</corpname> La Cité internationale universitaire de
+				Paris est une fondation nationale reconnue d’utilité publique, administrée par un
+				Conseil composé de personnalités françaises et étrangères, de représentants du
+				personnel et de résidents. La Fondation nationale gère directement des services
+				centraux et généraux (service financier, service du personnel, service technique et
+				du domaine...) et assure la coordination de l’ensemble de l’Institution dans le
+				respect des statuts, des règlements généraux et des actes de donation. Elle reçoit
+				diverses subventions, notamment du ministère chargé de l’Enseignement supérieur.
+				L’administration générale est confiée au Délégué général, désigné par le conseil
+				d’administration, et assisté dans sa tâche par le Délégué général adjoint ; un
+				second Délégué général adjoint est élu par les directeurs des maisons.</p>
+			<p><corpname>Alliance internationale</corpname> L’Association des anciens résidents de
+				la CIUP, dite Alliance internationale, favorise les relations entre les anciens
+				résidents. Grâce aux liens qu’elle entretient dans tous les pays du monde, elle peut
+				rendre des services aux résidents. Elle publie un bulletin de liaison et organise
+				des manifestations culturelles témoignant de l’idéal des fondateurs.</p>
+
+			<bioghist>
+				<chronlist>
+					<head>Présidents à la CIUP depuis l’origine</head>
+					<chronitem>
+						<date>du 6 juin 1925 au 11 février 1948</date>
+						<event>André Honnorat </event>
+					</chronitem>
+					<chronitem>
+						<date>du 26 février 1948 au 23 octobre 1951</date>
+						<event>Raoul Dautry</event>
+					</chronitem>
+					<chronitem>
+						<date>du 29 novembre 1951 au 25 février 1964</date>
+						<event>André François-Poncet</event>
+					</chronitem>
+					<chronitem>
+						<date>du 25 février 1964 au 27 février 1985</date>
+						<event>Bernard Chenot</event>
+					</chronitem>
+					<chronitem>
+						<date>du 27 février 1985 au 14 juin 1996</date>
+						<event>Pierre Laurent</event>
+					</chronitem>
+					<chronitem>
+						<date>du 14 juin 1996 au 6 janvier 2006</date>
+						<event>Michel Gentot</event>
+					</chronitem>
+					<chronitem>
+						<date>depuis le 2 mars 2006</date>
+						<event>Marcel Pochard</event>
+					</chronitem>
+				</chronlist>
+				<chronlist>
+					<head>Délégués généraux administratifs à la CIUP depuis l’origine</head>
+					<chronitem>
+						<date>du 5 avril 1933 au 12 mai 1945</date>
+						<event>Jules Coulet</event>
+					</chronitem>
+					<chronitem>
+						<date>du 12 mai 1945 au 21 décembre 1949</date>
+						<event>André Lirondelle</event>
+					</chronitem>
+					<chronitem>
+						<date>de mai 1950 au 9 juillet 1957</date>
+						<event>André Marchaud</event>
+					</chronitem>
+					<chronitem>
+						<date>de 1958 au 19 juin 1967</date>
+						<event>Robert Garric</event>
+					</chronitem>
+					<chronitem>
+						<date>du 1er octobre 1967 à 1977</date>
+						<event>Pierre Marthelot</event>
+					</chronitem>
+					<chronitem>
+						<date>du 1er octobre 1977 à mars 1992</date>
+						<event>Etienne Dalmasso</event>
+					</chronitem>
+					<chronitem>
+						<date>1992, intérim</date>
+						<event>Jean Binon</event>
+					</chronitem>
+					<chronitem>
+						<date>du 1er octobre 1992 au 1er novembre 1998</date>
+						<event>Joseph Goy</event>
+					</chronitem>
+					<chronitem>
+						<date>du 1er novembre 1998 à 2005</date>
+						<event>Claude Ronceray</event>
+					</chronitem>
+					<chronitem>
+						<date>depuis 2005</date>
+						<event>Sylviane Tarsot-Gillery</event>
+					</chronitem>
+				</chronlist>
+				<chronlist>
+					<head>Secrétaires généraux administratifs à la CIUP depuis l’origine</head>
+					<chronitem>
+						<date>du 5 juillet 1948 au 15 octobre 1957</date>
+						<event>Louis Péhuet</event>
+					</chronitem>
+					<chronitem>
+						<date>du 27 novembre 1957 au 31 mars 1966</date>
+						<event>Daniel Tesseraud</event>
+					</chronitem>
+					<chronitem>
+						<date>du 1er avril 1966 à 1976</date>
+						<event>Pierre Dhombres</event>
+					</chronitem>
+					<chronitem>
+						<date>du 1er octobre 1976 au 30 septembre 1986</date>
+						<event>Bénédict Manin</event>
+					</chronitem>
+					<chronitem>
+						<date>du 15 novembre 1986 à 1989</date>
+						<event>Jacques Treffel</event>
+					</chronitem>
+					<chronitem>
+						<date>de octobre 1989 à 1996</date>
+						<event>Jean Binon</event>
+					</chronitem>
+					<chronitem>
+						<date>de 1996 au 1er novembre 1998</date>
+						<event>Claude Ronceray</event>
+					</chronitem>
+					<chronitem>
+						<date>du 11 octobre 2004 à 2007</date>
+						<event>Cécile André</event>
+					</chronitem>
+					<chronitem>
+						<date>depuis 2008</date>
+						<event>Marie-Thérèse Texeraud, également déléguée générale adjointe</event>
+					</chronitem>
+				</chronlist>
+			</bioghist>
+		</bioghist>
+		<dsc>
+			<c level="subfonds">
+				<did>
+					<unittitle>Administration générale</unittitle>
+				</did>
+				<c level="series">
+					<did>
+						<unittitle>Communication</unittitle>
+					</did>
+					<c level="subseries">
+						<did>
+							<unittitle>Communication interne</unittitle>
+							<unitdate>1924-1999</unitdate>
+						</did>
+						<scopecontent>
+							<p>Publications.</p>
+						</scopecontent>
+						<c level="item">
+							<did>
+								<unitid>20090013 Article 135</unitid>
+								<unitdate>1975-1977</unitdate>
+							</did>
+							<scopecontent>
+								<p>Cérémonie du Cinquantenaire de la Cité Internationale
+									Universitaire de Paris le 11 décembre 1975, organisation :
+									comptes rendus de réunions, notes, correspondance générale,
+									listes des invités, correspondance avec les invités, répertoire
+									des invités, projet de film, brochures, articles de presse,
+									cartes postales.</p>
+							</scopecontent>
+						</c>
+						<c level="item">
+							<did>
+								<unitid>20090013 Article 136</unitid>
+								<unitdate>1987-1988</unitdate>
+							</did>
+							<scopecontent>
+								<p>Célébration du Cinquantenaire de la Maison Internationale le 22
+									octobre 1987, invitation de Monsieur David Rockefeller : comptes
+									rendus de réunions, notes, correspondance, programme, listes des
+									invités, factures, brochures, photos.</p>
+							</scopecontent>
+						</c>
+						<c level="item">
+							<did>
+								<unitid>20090013 Article 137</unitid>
+								<unitdate>1985-1985</unitdate>
+							</did>
+							<scopecontent>
+								<p>Réception du 25 juin 1985 : correspondance, carton d’invitation,
+									devis menu, liste des invités, négatifs, cassette audio.</p>
+								<note>
+									<p>Changement de présidence de la Cité, Monsieur Laurent
+										remplace Monsieur Chenot.</p>
+								</note>
+							</scopecontent>
+						</c>
+						<c level="item">
+							<did>
+								<unitid>20090013 Article 138</unitid>
+								<unitdate>1968-1996</unitdate>
+							</did>
+							<scopecontent>
+								<p>Cérémonies relatives aux personnalités de la Cité. Album
+									photographique : notes, correspondance, documents préparatoires
+									(1968-1973) ; Centenaire de la naissance de André Honnorat :
+									notes, correspondance, carton d’invitation, listes des invités,
+									discours, livre, revue, brochure, photos, factures (1968-1969) ;
+									Centenaire de la naissance de Robert Garric : notes, dossier
+									centenaire Robert Garric.</p>
+								<note>
+									<p>1996 : Année Robert Garric à la Cité.</p>
+								</note>
+							</scopecontent>
+						</c>
+						<c level="item">
+							<did>
+								<unitid>20090013 Article 139</unitid>
+								<unitdate>1984-1998</unitdate>
+							</did>
+							<scopecontent>
+								<p>Festivités diverses. Jeux Olympiques de 1992 : notes
+									correspondance, articles de presse, dossier de candidature,
+									pièces annexes (1984-1986) ; Fêtes des Nations : notes,
+									correspondance, programmes, comptes rendus de réunions de
+									préparation, affiches (1987-1998) ; bicentenaire de la
+									Révolution française : notes, correspondance, convention avec la
+									Mission du Bicentenaire (1987-1990) ; nuit européenne :
+									correspondance, programme.</p>
+								<note>
+									<p>Elle célèbre le 5ème anniversaire de l’Evènement du
+										Jeudi.</p>
+								</note>
+							</scopecontent>
+						</c>
+					</c>
+					<c level="subseries">
+						<did>
+							<unittitle>Communication externe</unittitle>
+							<unitdate>1923-2000</unitdate>
+						</did>
+						<scopecontent>
+							<p>Service de presse.</p>
+						</scopecontent>
+						<c level="item">
+							<did>
+								<unitid>20090013 Article 140</unitid>
+								<unitdate>1933-1939</unitdate>
+							</did>
+							<scopecontent>
+								<p>Registres de coupures de presse.</p>
+							</scopecontent>
+						</c>
+						<c level="item">
+							<did>
+								<unitid>20090013 Article 141</unitid>
+								<unitdate>1923-1987</unitdate>
+							</did>
+							<scopecontent>
+								<p>Livres et Brochures concernant la Cité.<list>
+										<item>La Cité Universitaire de Paris (rapport présenté au
+											Congrès international d’urbanisme de Strasbourg), Lucien
+											Bechmann, Paris, <date>1923</date>.</item>
+										<item>La Cité Universitaire de Paris (Pour la jeunesse de
+											nos écoles), Paris, <date>1925</date>.</item>
+										<item>Constructions de Dumont et Besson (constructeur de la
+											Maison de Cuba), Pro Publicité,
+											<date>1934</date>.</item>
+										<item>La lumière sur la Cité et nos hôtes les étudiants de
+											tous les pays, les Forces Spirituelles, Firmin Roz,
+												<date>1938</date>.</item>
+										<item>A la mémoire de Roger Bauduin de Belleval, directeur
+											de la maison de l’Indochine héros de la résistance
+											fusillé par les allemends le 13 juillet 1944 à Nantua et
+											des anciens résidents de la maison de l’Indochine morts
+											pour la France, Paris, <date>1946</date>.</item>
+										<item>La Cité Universitaire de Paris, hier, aujourd’hui,
+											demain, Lucien Maury, Editions Stock, Paris,
+												<date>1947</date>.</item>
+										<item>Cahiers techniques du linoléum, publication périodique
+											n°8 : Résidences universitaires, Sarlino (société
+											industrielle rémoise du linoléum), septembre
+												<date>1956</date>.</item>
+										<item>La mission éducatrice de la Cité Universitaire, A.
+											Desclos (ancien directeur du Collège Franco-Britannique,
+												<date>1961</date>.</item>
+										<item>Inauguration de la plaque commémorative de Paul Appell
+											à la Cité universitaire de Strasbourg, Université de
+											Strasbourg, Renaissance française,
+											<date>1965</date>.</item>
+										<item>Cinquantenaire de la Fondation Biermans-Lapôtre à
+											Paris, Textes et documents, collection “Chroniques
+											Belges”, Ministère des Affaires étrangères, du commerce
+											extérieur et de la coopération au développement,
+											Bruxelles, français et anglais,
+											<date>1977</date>.</item>
+										<item>Revue d’histoire du quatorzième arrondissement de
+											Paris, n° 23, <date>1978-1979</date>.</item>
+										<item>La Cité Internationale Universitaire de Paris : an
+											original institution at the service of students, Etienne
+											Dalmasso, <date>4 mai 1987</date>.</item>
+										<item>La vie du quartier Latin, des origines à la Cité
+											Universitaire, Henri Bourrelier, Paris, s.d.</item>
+										<item>Quatre aspects de la modernité architecturale à la
+											Cité Internationale Universitaire de Paris, Ministère de
+											la Culture et de la Communcation, s.d.</item>
+										<item>La Carrière de Lucien Bechmann, s.d.</item>
+									</list></p>
+							</scopecontent>
+						</c>
+					</c>
+				</c>
+			</c>
+		</dsc>
+	</archdesc>
+</ead>
